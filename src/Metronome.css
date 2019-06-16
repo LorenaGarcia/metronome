@@ -19,3 +19,7 @@
   color: #fff;
   font-size: 18px;
 }
+
+button {
+  outline: none;
+}
